@@ -1,0 +1,9 @@
+{
+    "name": "DockerTemplate",
+    "image": "docker-template-image",
+    "appPort": ["4000:80"],
+    "settings": { 
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": ["ms-python.python"],
+}
