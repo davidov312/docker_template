@@ -10,3 +10,7 @@
     * Dev Containers
 * F1 -> Dev Containers: Reopen in Container
     * You are now inside a container and can work on src code
+
+### Note
+* After rebuilding an image and reopening container:
+    * * F1 -> Dev Containers: Rebuild Container
